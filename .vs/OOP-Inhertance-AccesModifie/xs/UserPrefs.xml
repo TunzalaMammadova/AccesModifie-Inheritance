@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{83DD7894-2559-4015-B076-79000663A0AA}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.OOP-Inhertance-AccesModifie PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OOP-Inhertance-AccesModifie/Student.cs">
+    <Files>
+      <File FileName="OOP-Inhertance-AccesModifie/Student.cs" Line="22" Column="1" />
+      <File FileName="OOP-Inhertance-AccesModifie/Program.cs" Line="51" Column="41" />
+      <File FileName="OOP-Inhertance-AccesModifie/Person.cs" Line="7" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OOP-Inhertance-AccesModifie" expanded="True">
+            <Node name="OOP-Inhertance-AccesModifie">
+              <Node name="Student.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

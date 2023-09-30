@@ -1,0 +1,15 @@
+/Users/tunzale/Projects/OOP-Inhertance-AccesModifie/OOP-Inhertance-AccesModifie/bin/Debug/net6.0/OOP-Inhertance-AccesModifie
+/Users/tunzale/Projects/OOP-Inhertance-AccesModifie/OOP-Inhertance-AccesModifie/bin/Debug/net6.0/OOP-Inhertance-AccesModifie.deps.json
+/Users/tunzale/Projects/OOP-Inhertance-AccesModifie/OOP-Inhertance-AccesModifie/bin/Debug/net6.0/OOP-Inhertance-AccesModifie.runtimeconfig.json
+/Users/tunzale/Projects/OOP-Inhertance-AccesModifie/OOP-Inhertance-AccesModifie/bin/Debug/net6.0/OOP-Inhertance-AccesModifie.dll
+/Users/tunzale/Projects/OOP-Inhertance-AccesModifie/OOP-Inhertance-AccesModifie/bin/Debug/net6.0/OOP-Inhertance-AccesModifie.pdb
+/Users/tunzale/Projects/OOP-Inhertance-AccesModifie/OOP-Inhertance-AccesModifie/obj/Debug/net6.0/OOP-Inhertance-AccesModifie.csproj.AssemblyReference.cache
+/Users/tunzale/Projects/OOP-Inhertance-AccesModifie/OOP-Inhertance-AccesModifie/obj/Debug/net6.0/OOP-Inhertance-AccesModifie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tunzale/Projects/OOP-Inhertance-AccesModifie/OOP-Inhertance-AccesModifie/obj/Debug/net6.0/OOP-Inhertance-AccesModifie.AssemblyInfoInputs.cache
+/Users/tunzale/Projects/OOP-Inhertance-AccesModifie/OOP-Inhertance-AccesModifie/obj/Debug/net6.0/OOP-Inhertance-AccesModifie.AssemblyInfo.cs
+/Users/tunzale/Projects/OOP-Inhertance-AccesModifie/OOP-Inhertance-AccesModifie/obj/Debug/net6.0/OOP-Inhertance-AccesModifie.csproj.CoreCompileInputs.cache
+/Users/tunzale/Projects/OOP-Inhertance-AccesModifie/OOP-Inhertance-AccesModifie/obj/Debug/net6.0/OOP-Inhertance-AccesModifie.dll
+/Users/tunzale/Projects/OOP-Inhertance-AccesModifie/OOP-Inhertance-AccesModifie/obj/Debug/net6.0/refint/OOP-Inhertance-AccesModifie.dll
+/Users/tunzale/Projects/OOP-Inhertance-AccesModifie/OOP-Inhertance-AccesModifie/obj/Debug/net6.0/OOP-Inhertance-AccesModifie.pdb
+/Users/tunzale/Projects/OOP-Inhertance-AccesModifie/OOP-Inhertance-AccesModifie/obj/Debug/net6.0/OOP-Inhertance-AccesModifie.genruntimeconfig.cache
+/Users/tunzale/Projects/OOP-Inhertance-AccesModifie/OOP-Inhertance-AccesModifie/obj/Debug/net6.0/ref/OOP-Inhertance-AccesModifie.dll
